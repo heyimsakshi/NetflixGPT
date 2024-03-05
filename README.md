@@ -80,6 +80,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Sign Up Form
 - Form Validation
 - useRef Hook
+- firebase setup
+- Deploying our app to production
 # Features
 - Login/SignUp Screen
     - SignIn/ SignUp From
@@ -97,3 +99,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     - Search Bar
     - Movie Suggestion
      
+
+- Live App
+    - https://netflix-backend-7bf61.firebaseapp.com/ 🚀 
