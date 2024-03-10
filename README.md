@@ -83,6 +83,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - firebase setup
 - Deploying our app to production
 - create Signup user Account
+- Implement Sign In user Api
+- created redux store with userSlice
+- Implemented Sign Out
+- Update Profile
+- Bug Fix: Sign up user displayName and profile picture update
+- BugFix: If the user is not logged In Redirect /browse to login page and vice-versa 
 # Features
 - Login/SignUp Screen
     - SignIn/ SignUp From
