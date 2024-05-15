@@ -99,6 +99,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Fetch data for trailer video and update store with trailer data
 - Embedded the yt video and make it autoplay and mute
 - Added tailwind class to make main Container awesome
+- usePopularMovies Custom hook
+- GPT Search Page
+
 
 # Features
 - Login/SignUp Screen
